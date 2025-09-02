@@ -1,6 +1,6 @@
-# API REST - Projeto Full-Stack de Lista de Tarefas
+# API de Tarefas - O Backend do seu Full-Stack
 
-Uma API REST desenvolvida como o núcleo de uma aplicação full-stack de gerenciamento de tarefas. Este backend é responsável por toda a lógica de negócio e persistência de dados, servindo dois clientes diferentes: uma aplicação web em Angular e uma aplicação desktop em JavaFX.
+Este projeto é a espinha dorsal de um sistema completo de gerenciamento de tarefas. Trata-se de uma API RESTful robusta, construída para centralizar toda a lógica de negócio e o acesso aos dados, servindo como o cérebro por trás de duas interfaces de usuário distintas: uma aplicação web e uma aplicação desktop.
 
 ---
 
