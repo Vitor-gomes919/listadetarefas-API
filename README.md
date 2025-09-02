@@ -39,7 +39,7 @@ O projeto é dividido em três repositórios independentes que se comunicam via 
 
 1.  **Clone este repositório:**
     ```bash
-    git clone []
+    git clone [https://github.com/Vitor-gomes919/listadetarefas-API.git]
     ```
 
 2.  **Abra o projeto em sua IDE** (VS Code, IntelliJ, etc.).
